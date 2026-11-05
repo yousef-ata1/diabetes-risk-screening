@@ -1,0 +1,7 @@
+streamlit
+pandas
+numpy
+joblib
+# IMPORTANT: pin scikit-learn to the SAME version you trained with in the notebook
+# (run `python -c "import sklearn; print(sklearn.__version__)"`), e.g.:
+scikit-learn
